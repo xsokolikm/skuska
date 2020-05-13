@@ -1,15 +1,15 @@
-git init -vytvorenie nového projektu lokálne/ prvá vec èo treba urobi
-git add - pridávanie súborov do našej lokálnej verzie
+git init -vytvorenie novï¿½ho projektu lokï¿½lne/ prvï¿½ vec ï¿½o treba urobiï¿½
+git add - pridï¿½vanie sï¿½borov do naï¿½ej lokï¿½lnej verzie
 git log - nastavenie
-git status - zistenie èi sú niektoré súbory vo¾né a niesú zahrnuté 
-git diff - zistenie èo sa zmenilo v súboroch
-git commit - prvı dôleitı príkaz ktorı vytvorí z mojich súborov snapshot verziu / vytovorí to novú verziu projektu/dokumentu
+git status - zistenie ï¿½i sï¿½ niektorï¿½ sï¿½bory voï¿½nï¿½ a niesï¿½ zahrnutï¿½ 
+git diff - zistenie ï¿½o sa zmenilo v sï¿½boroch
+git commit - prvï¿½ dï¿½leï¿½itï¿½ prï¿½kaz ktorï¿½ vytvorï¿½ z mojich sï¿½borov snapshot verziu / vytovorï¿½ to novï¿½ verziu projektu/dokumentu
 git show - 
 git blame - 
 git clone - 
 git push - 
 git pull -
-git checkout- prepínanie medzi vetvami
+git checkout- prepï¿½nanie medzi vetvami
 git clean/reset/revert -
 git branch- vytvorenie novej vetvy 
 git merge - spojenie dvoch vetiev 
