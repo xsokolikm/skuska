@@ -1,0 +1,15 @@
+git init -vytvorenie nov�ho projektu lok�lne/ prv� vec �o treba urobi�
+git add - prid�vanie s�borov do na�ej lok�lnej verzie
+git log - nastavenie
+git status - zistenie �i s� niektor� s�bory vo�n� a nies� zahrnut� 
+git diff - zistenie �o sa zmenilo v s�boroch
+git commit - prv� d�le�it� pr�kaz ktor� vytvor� z mojich s�borov snapshot verziu / vytovor� to nov� verziu projektu/dokumentu
+git show - 
+git blame - 
+git clone - 
+git push - 
+git pull -
+git checkout- prep�nanie medzi vetvami
+git clean/reset/revert -
+git branch- vytvorenie novej vetvy 
+git merge - spojenie dvoch vetiev 
