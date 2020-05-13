@@ -13,3 +13,4 @@ git checkout- prep�nanie medzi vetvami
 git clean/reset/revert -
 git branch- vytvorenie novej vetvy 
 git merge - spojenie dvoch vetiev 
+toto je zmena
